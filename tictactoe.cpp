@@ -51,7 +51,6 @@ int main()
     }
 
     std::cout<<"Thanks For Playing!!!!!";
-
     
     return 0;
 }
@@ -161,4 +160,4 @@ bool checkTie(char *spaces)
         }
     std::cout<<"It's a TIE!!!\n";
     return true;
-}
+}      
